@@ -2,6 +2,7 @@
 SAPUI5
 ## What is the purpose of the meta description ($metadata) of an OData service?
 It defines the entity, its properties, and relationships along with other items.
+
 ## What can OData annotations express?
 Field semantics such as which field has a currency assigned to it
 UI elements like tables, forms, and charts
